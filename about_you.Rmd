@@ -1,6 +1,6 @@
 ---
-title: "Fi
-author: "judy Insunza
+title: "Firstknit"
+author: "judy Insunza"
 output: 
   html_document:
     number_sections: true
